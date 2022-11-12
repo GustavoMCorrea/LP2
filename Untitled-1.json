@@ -1,0 +1,378 @@
+{
+    "funcionarios": [
+        {
+            "matricula": 1,
+            "nome": "Lucas Alves",
+            "dataNasc": "22/06/1980",
+            "ufNasc": "MG",
+            "sexo": "M",
+            "estadoCivil": "Solteiro",
+            "raca": "Branca",
+            "escolaridade": "Superior Incompleto",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"lucas@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "MG",
+            "numRg": "99.999.999",
+            "ufRg": "MG",
+            "orgEmissor": "PCMG",
+            "numCnh": "999999999999999",
+            "ufCnh": "MG",
+            "dtValidadeCnh": "01/01/2022",
+            "categoriaCnh": "B",
+            "dataAdmissao": "01/10/2022",
+            "tipoContratoTrabalho": "Prazo Indeterminado", 
+            "salarioMensal": "R$ 1.212,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 1,
+            "codigoEscala": 1,
+            "codigoPlano": 1,
+            "codigoVale": 1
+        },
+        {
+            "matricula": 2,
+            "nome": "Amanda Faria",
+            "dataNasc": "13/09/2002",
+            "ufNasc": "MG",
+            "sexo": "F",
+            "estadoCivil": "Casado",
+            "raca": "Branca",
+            "escolaridade": "Superior Completo",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"amanda@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "MG",
+            "numRg": "99.999.999",
+            "ufRg": "MG",
+            "orgEmissor": "PCMG",
+            "numCnh": "999999999999999",
+            "ufCnh": "MG",
+            "dtValidadeCnh": "01/03/2023",
+            "categoriaCnh": "B",
+            "dataAdmissao": "01/10/2020",
+            "tipoContratoTrabalho": "Prazo Determinado", 
+            "salarioMensal": "R$ 6.212,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 1,
+            "codigoEscala": 2,
+            "codigoPlano": 2,
+            "codigoVale": 1
+        },
+        {
+            "matricula": 3,
+            "nome": "William Vieira",
+            "dataNasc": "22/06/1990",
+            "ufNasc": "MG",
+            "sexo": "M",
+            "estadoCivil": "Viúvo",
+            "raca": "Branca",
+            "escolaridade": "Superior Completo",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"william@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "PB",
+            "numRg": "99.999.999",
+            "ufRg": "PB",
+            "orgEmissor": "PCPB",
+            "numCnh": "999999999999999",
+            "ufCnh": "PB",
+            "dtValidadeCnh": "01/01/2022",
+            "categoriaCnh": "B",
+            "dataAdmissao": "01/10/2022",
+            "tipoContratoTrabalho": "Prazo Indeterminado", 
+            "salarioMensal": "R$ 1.212,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 2,
+            "codigoEscala": 4,
+            "codigoPlano": 3,
+            "codigoVale": 1
+        },
+        {
+            "matricula": 4,
+            "nome": "Lucas Crispim",
+            "dataNasc": "22/06/1985",
+            "ufNasc": "SP",
+            "sexo": "M",
+            "estadoCivil": "Casado",
+            "raca": "Branca",
+            "escolaridade": "Superior Completo",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"lcrispim@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "SP",
+            "numRg": "99.999.999",
+            "ufRg": "SP",
+            "orgEmissor": "PCSP",
+            "numCnh": "999999999999999",
+            "ufCnh": "SP",
+            "dtValidadeCnh": "01/10/2030",
+            "categoriaCnh": "AB",
+            "dataAdmissao": "01/05/2022",
+            "tipoContratoTrabalho": "Prazo Determinado", 
+            "salarioMensal": "R$ 7.500,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 3,
+            "codigoEscala": 1,
+            "codigoPlano": 1,
+            "codigoVale": 1
+        },
+        {
+            "matricula": 5,
+            "nome": "Maria Almeida",
+            "dataNasc": "31/03/1999",
+            "ufNasc": "MG",
+            "sexo": "F",
+            "estadoCivil": "Solteiro",
+            "raca": "Branca",
+            "escolaridade": "Superior Completo",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"maria@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "MG",
+            "numRg": "99.999.999",
+            "ufRg": "MG",
+            "orgEmissor": "PCMG",
+            "numCnh": "999999999999999",
+            "ufCnh": "MG",
+            "dtValidadeCnh": "10/08/2025",
+            "categoriaCnh": "B",
+            "dataAdmissao": "04/12/2019",
+            "tipoContratoTrabalho": "Prazo Determinado", 
+            "salarioMensal": "R$ 1.212,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 4,
+            "codigoEscala": 3,
+            "codigoPlano": 3,
+            "codigoVale": 1
+        },
+        {
+            "matricula": 6,
+            "nome": "João Mota",
+            "dataNasc": "21/08/1997",
+            "ufNasc": "RJ",
+            "sexo": "M",
+            "estadoCivil": "Solteiro",
+            "raca": "Branca",
+            "escolaridade": "Fundamental Incompleto",
+            "telefone": "(32) 9999-9999",
+            "celular": "(32) 99999-9999",
+            "email":"joao@email.com.br",
+            "cpf": "999.999.999-99",
+            "nis": "999.99999.22-1",
+            "numCtps":"9999999",
+            "serieCtps": "999-9",
+            "ufCtps": "RJ",
+            "numRg": "99.999.999",
+            "ufRg": "RJ",
+            "orgEmissor": "PCRJ",
+            "numCnh": "999999999999999",
+            "ufCnh": "RJ",
+            "dtValidadeCnh": "01/01/2022",
+            "categoriaCnh": "B",
+            "dataAdmissao": "01/10/2022",
+            "tipoContratoTrabalho": "Prazo Indeterminado", 
+            "salarioMensal": "R$ 6.351,00",
+            "regimeTrabalhista": "CLT",
+            "regimePrevidenciario": "RGPS",
+            "codigoFuncao": 5,
+            "codigoEscala": 2,
+            "codigoPlano": 1,
+            "codigoVale": 2
+        }
+    ],
+    "enderecos":[
+        {
+            "codigo":1,
+            "cep": "99999-999",
+            "logadouro":"Rua Bernardo Mascarenhas",
+            "num": 1283,
+            "complemento":"",
+            "bairro": "Fabrica",
+            "municipio": "Juiz de Fora",
+            "matricula":6
+
+        },
+
+        {
+            "codigo":2,
+            "cep": "99999-999",
+            "logadouro":"Rua Comendador Noronha",
+            "num": 90,
+            "complemento":"",
+            "bairro": "Centro",
+            "municipio": "Guarara",
+            "matricula":1
+
+        },
+
+        {
+            "codigo":3,
+            "cep": "99999-999",
+            "logadouro":"Rua Valter Miranda",
+            "num": 43,
+            "complemento":"Apto 202",
+            "bairro": "Benfica",
+            "municipio": "Juiz de Fora",
+            "matricula":2
+
+        },
+
+        {
+            "codigo":4,
+            "cep": "99999-999",
+            "logadouro":"Rua Francisco Esteves de Oliveira",
+            "num": 50,
+            "complemento":"",
+            "bairro": "Benfica",
+            "municipio": "Juiz de Fora",
+            "matricula":3
+
+        },
+
+        {
+            "codigo":5,
+            "cep": "99999-999",
+            "logadouro":"Avenida Astolfo Dutra",
+            "num": 535,
+            "complemento":"",
+            "bairro": "Centro",
+            "municipio": "Cataguases",
+            "matricula":4
+
+        },
+
+        {
+            "codigo":6,
+            "cep": "99999-999",
+            "logadouro":"Rua Antônio Passarela",
+            "num": 325,
+            "complemento":"",
+            "bairro": "São Mateus",
+            "municipio": "Juiz de Fora",
+            "matricula":5
+
+        }
+
+    ],
+    "alteracaosalario":[
+        {
+            "codigo": 1,
+            "salarioAtual": "R$ 1.212,00",
+            "porcentagemAlteracao": "2%",
+            "novoSalario": "R$ 1.236,24",
+            "dataAlteracao": "10/06/2003",
+            "motivoAlteracao": "Aumento de desempenho",
+            "matricula": 1
+        },
+        {
+            "codigo": 2,
+            "salarioAtual": "R$ 6.212,00",
+            "porcentagemAlteracao": "25%",
+            "novoSalario": "R$ 7.765,00",
+            "dataAlteracao": "10/02/2013",
+            "motivoAlteracao": "Promoção",
+            "matricula": 2
+        },
+        {
+            "codigo": 3,
+            "salarioAtual": "R$ 1.212,00",
+            "porcentagemAlteracao": "2%",
+            "novoSalario": "R$ 1.236,24",
+            "dataAlteracao": "15/07/2001",
+            "motivoAlteracao": "Aumento de desempenho",
+            "matricula": 3
+        },
+        {
+            "codigo": 4,
+            "salarioAtual": "R$ 7.500,00",
+            "porcentagemAlteracao": "20%",
+            "novoSalario": "R$ 9.000,00",
+            "dataAlteracao": "01/12/2004",
+            "motivoAlteracao": "Mudança de Horário",
+            "matricula": 4
+        },
+        {
+            "codigo": 5,
+            "salarioAtual": "R$ 1.212,00",
+            "porcentagemAlteracao": "30%",
+            "novoSalario": "R$ 1.575,60",
+            "dataAlteracao": "24/11/2012",
+            "motivoAlteracao": "Aumento de desempenho",
+            "matricula": 5
+        },
+        {
+            "codigo": 6,
+            "salarioAtual": "R$ 1.212,00",
+            "porcentagemAlteracao": "15%",
+            "novoSalario": "R$ 1.393,80",
+            "dataAlteracao": "26/05/2018",
+            "motivoAlteracao": "Promoção",
+            "matricula": 6
+        }
+    ],
+    "planoSaude":[
+        {
+            "codigo": 1,
+            "descricao": "individual básico",
+            "valor":  "R$ 100,00"
+        },
+
+        {
+            "codigo": 2,
+            "descricao": "individual medio",
+            "valor":  "R$ 150,00"
+        },
+
+        {
+            "codigo": 3,
+            "descricao": "simples",
+            "valor":  "R$ 50,00"
+        },
+
+        {
+            "codigo": 4,
+            "descricao": "premium",
+            "valor":  "R$ 50,00"
+        },
+
+        {
+            "codigo": 1,
+            "descricao": "básico",
+            "valor":  "R$ 50,00"
+        },
+        
+        {
+            "codigo": 1,
+            "descricao": "básico",
+            "valor":  "R$ 50,00"
+        }
+    ]
+    
+    
+
+}
