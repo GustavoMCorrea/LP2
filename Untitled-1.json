@@ -338,38 +338,147 @@
     "planoSaude":[
         {
             "codigo": 1,
-            "descricao": "individual básico",
+            "descricao": "individual",
             "valor":  "R$ 100,00"
         },
 
         {
             "codigo": 2,
-            "descricao": "individual medio",
-            "valor":  "R$ 150,00"
-        },
-
+            "descricao": "Familiar",
+            "valor":  "R$ 250,00"
+        }       
+    ],
+    "valeTransporte":[
         {
-            "codigo": 3,
-            "descricao": "simples",
-            "valor":  "R$ 50,00"
+            "codigo":1,
+            "descricao": "Urbano",
+            "ValorUnitario": "R$3,75",
+            "quantidadePorDia": 2
         },
-
         {
-            "codigo": 4,
-            "descricao": "premium",
-            "valor":  "R$ 50,00"
-        },
+            "codigo":1,
+            "descricao": "InterUrbano",
+            "ValorUnitario": "R$10,00",
+            "quantidadePorDia": 2
+        }
 
+    ],
+    "dependente":[
         {
+            "matricula": 1,
             "codigo": 1,
-            "descricao": "básico",
-            "valor":  "R$ 50,00"
+            "nome": "Marcio Alves",
+            "tipoDependente":"filho",
+            "dataNascimento":"14/11/2005",
+            "cpf":"147.088.151-90",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
         },
-        
         {
+            "matricula": 2,
             "codigo": 1,
-            "descricao": "básico",
-            "valor":  "R$ 50,00"
+            "nome": "Pedro Esteves",
+            "tipoDependente":"Esposo",
+            "dataNascimento":"14/11/2005",
+            "cpf":"112.232.311-51",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
+        },
+        {
+            "matricula": 3,
+            "codigo": 1,
+            "nome": "Pedro silva",
+            "tipoDependente":"filha",
+            "dataNascimento":"14/11/2005",
+            "cpf":"112.232.311-51",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
+        },
+        {
+            "matricula": 4,
+            "codigo": 1,
+            "nome": "Pedro silva",
+            "tipoDependente":"filha",
+            "dataNascimento":"14/11/2005",
+            "cpf":"112.232.311-51",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
+        },{
+            "matricula": 5,
+            "codigo": 1,
+            "nome": "Pedro silva",
+            "tipoDependente":"filha",
+            "dataNascimento":"14/11/2005",
+            "cpf":"112.232.311-51",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
+        },{
+            "matricula": 6,
+            "codigo": 1,
+            "nome": "Pedro silva",
+            "tipoDependente":"filha",
+            "dataNascimento":"14/11/2005",
+            "cpf":"112.232.311-51",
+            "dependenteImpRenda": true,
+            "dependenteSalFamilia": false,
+            "incapacidadeFisicaMental":false
+        }
+    ],
+    "funcao":
+    [
+        {
+            "codigo":1,
+            "descricao":"Administrador",
+            "codigoDepartamento":1
+        },
+        {
+            "codigo":2,
+            "descricao":"Desenvolvedor",
+            "codigoDepartamento":2
+        },
+        {
+            "codigo":3,
+            "descricao":"Desenvolvedor",
+            "codigoDepartamento":2
+        },
+        {
+            "codigo":4,
+            "descricao":"Projetista",
+            "codigoDepartamento":3
+        },
+        {
+            "codigo":5,
+            "descricao":"Projetista",
+            "codigoDepartamento":3
+        },
+        {
+            "codigo":6,
+            "descricao":"Gerente",
+            "codigoDepartamento":4
+        }
+    ],
+    "departamento":
+    [
+        {
+            "codigo":1,
+            "nome": "Administrativo"
+        },
+        {
+            "codigo":2,
+            "nome":"Projetos"
+        },
+        {
+            "codigo":3,
+            "nome": "T.I"
+        },
+        {
+            "codigo":4,
+            "nome":"Vendas"
         }
     ]
     
